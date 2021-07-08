@@ -1,4 +1,4 @@
-# Deployed with Netlify: [Link](https://react-course-github-users.netlify.app/login)
+# Continuous deployment with Netlify: [Link](https://react-course-github-users.netlify.app/login)
 # Safe .env variables must be pushed to Github
 
 ## Starter Project
